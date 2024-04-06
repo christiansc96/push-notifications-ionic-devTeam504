@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-notifications-devteam504</string>
+    <string name="title_activity_main">ionic-notifications-devteam504</string>
+    <string name="package_name">devteam504.com.devs</string>
+    <string name="custom_url_scheme">devteam504.com.devs</string>
+</resources>
