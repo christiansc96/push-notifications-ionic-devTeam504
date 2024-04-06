@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "devteam504-app": {
+      "hosting": {
+        "app": [
+          "devteam504-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "devteam504-app"
+  }
+}

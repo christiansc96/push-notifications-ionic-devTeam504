@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'devteam504.com.devs',
   appName: 'ionic-notifications-devteam504',
   webDir: 'www',
   server: {
